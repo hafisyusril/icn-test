@@ -1,6 +1,12 @@
 
 # Task Manager App
 
+🌐 **Live Demo:** https://icn-test-phi.vercel.app/
+
+- [Login](https://icn-test-phi.vercel.app/login)
+- [Register](https://icn-test-phi.vercel.app/register)
+- [Dashboard](https://icn-test-phi.vercel.app/dashboard)
+
 A simple web-based task manager application for managing to-do lists (CRUD), with user authentication and form validation. Built using Next.js, React, Zustand, React Query, and Tailwind CSS.
 
 ## 🚀 Tech Stack
