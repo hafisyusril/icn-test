@@ -42,6 +42,7 @@ A simple web-based task manager application for managing to-do lists (CRUD), wit
 	yarn dev
 	```
 	open [http://localhost:3000](http://localhost:3000) in browser.
+    open [http://localhost:3000/login] (http://localhost:3000/login) for login page to access dashboard.
 
 5. **Build for production**
 	```bash
